@@ -1,3 +1,3 @@
 # hello
 for first hello
-https://github.com/grain420/hello/upload/master
+![01](https://github.com/grain420/hello/blob/master/01.JPG)
