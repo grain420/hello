@@ -20,4 +20,5 @@ for first hello
 ![18](https://github.com/grain420/hello/blob/master/18.JPG)
 ![19](https://github.com/grain420/hello/blob/master/19.JPG)
 ![20](https://github.com/grain420/hello/blob/master/20.JPG)
-
+![0.1](https://github.com/grain420/hello/blob/master/0.1.JPG)
+![0.2](https://github.com/grain420/hello/blob/master/0.2.JPG)
